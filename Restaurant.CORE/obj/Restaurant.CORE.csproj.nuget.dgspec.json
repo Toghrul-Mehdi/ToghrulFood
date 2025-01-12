@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victus\\source\\repos\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj": {}
+    "C:\\Users\\Victus\\OneDrive\\İş masası\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victus\\source\\repos\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj": {
+    "C:\\Users\\Victus\\OneDrive\\İş masası\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victus\\source\\repos\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj",
+        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj",
         "projectName": "Restaurant.CORE",
-        "projectPath": "C:\\Users\\Victus\\source\\repos\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj",
+        "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\Restaurant\\Restaurant.CORE\\Restaurant.CORE.csproj",
         "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victus\\source\\repos\\Restaurant\\Restaurant.CORE\\obj\\",
+        "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\Restaurant\\Restaurant.CORE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

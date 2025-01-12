@@ -15,3 +15,21 @@ C:\Users\Victus\source\repos\Restaurant\Restaurant.DAL\obj\Debug\net8.0\refint\R
 C:\Users\Victus\source\repos\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.pdb
 C:\Users\Victus\source\repos\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.genruntimeconfig.cache
 C:\Users\Victus\source\repos\Restaurant\Restaurant.DAL\obj\Debug\net8.0\ref\Restaurant.DAL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\bin\Debug\net8.0\Restaurant.DAL.deps.json
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\bin\Debug\net8.0\Restaurant.DAL.runtimeconfig.json
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\bin\Debug\net8.0\Restaurant.DAL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\bin\Debug\net8.0\Restaurant.DAL.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\bin\Debug\net8.0\Restaurant.CORE.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\bin\Debug\net8.0\Restaurant.CORE.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.csproj.AssemblyReference.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaura.6B1B0A81.Up2Date
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\refint\Restaurant.DAL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\Restaurant.DAL.genruntimeconfig.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.DAL\obj\Debug\net8.0\ref\Restaurant.DAL.dll

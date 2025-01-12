@@ -1,5 +1,9 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Restaurant.BL.Services.Implements;
+using Restaurant.BL.Services.Interfaces;
 using Restaurant.CORE.Entities;
 using Restaurant.DAL.Context;
 
@@ -10,6 +14,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("Mssql")));
 
+
+builder.Services.AddScoped<ICategoryService,CategoryService>();
 builder.Services.AddIdentity<User, IdentityRole>(opt =>
 {
     opt.Password.RequiredLength = 3;

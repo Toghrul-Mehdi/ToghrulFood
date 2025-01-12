@@ -8,5 +8,7 @@ namespace Restaurant.BL.VM.Category
 {
     public class CategoryGetVM
     {
+        public string CategoryName { get; set; }
+
     }
 }

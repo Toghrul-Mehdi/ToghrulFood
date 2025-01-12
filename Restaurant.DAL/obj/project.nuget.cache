@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nboiCsR2Hs=",
+  "dgSpecHash": "hzAgNOLz948=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victus\\source\\repos\\Restaurant\\Restaurant.DAL\\Restaurant.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Victus\\OneDrive\\İş masası\\Restaurant\\Restaurant.DAL\\Restaurant.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Victus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

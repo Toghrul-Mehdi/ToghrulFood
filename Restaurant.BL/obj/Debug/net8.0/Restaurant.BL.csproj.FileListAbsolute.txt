@@ -15,3 +15,21 @@ C:\Users\Victus\source\repos\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restauran
 C:\Users\Victus\source\repos\Restaurant\Restaurant.BL\obj\Debug\net8.0\refint\Restaurant.BL.dll
 C:\Users\Victus\source\repos\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.pdb
 C:\Users\Victus\source\repos\Restaurant\Restaurant.BL\obj\Debug\net8.0\ref\Restaurant.BL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.BL.deps.json
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.BL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.BL.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.CORE.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.DAL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.DAL.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\bin\Debug\net8.0\Restaurant.CORE.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.csproj.AssemblyReference.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaura.16B444D5.Up2Date
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\refint\Restaurant.BL.dll
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\Restaurant.BL.pdb
+C:\Users\Victus\OneDrive\İş masası\Restaurant\Restaurant.BL\obj\Debug\net8.0\ref\Restaurant.BL.dll

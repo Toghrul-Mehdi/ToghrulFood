@@ -1,12 +1,207 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\Restaurant\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|solutionrelative:restaurant.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.bl\\vm\\category\\categorygetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|solutionrelative:restaurant.bl\\vm\\category\\categorygetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.bl\\vm\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|solutionrelative:restaurant.bl\\vm\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.bl\\vm\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A76A3C-741C-4227-B901-42576C4C8780}|Restaurant.BL\\Restaurant.BL.csproj|solutionrelative:restaurant.bl\\vm\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\restaurant\\restaurant.mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8BE3C21-3B4C-4E4B-97B5-93435CDA4362}|Restaurant.MVC\\Restaurant.MVC.csproj|solutionrelative:restaurant.mvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:21:42.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restaurant.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:12:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Restaurant.MVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:11:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Restaurant.MVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:10:01.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Restaurant.BL\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Restaurant.BL\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:02:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Restaurant.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:58:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Program.cs",
+              "RelativeToolTip": "Restaurant.MVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:51:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\VM\\Category\\CategoryUpdateVM.cs",
+              "RelativeDocumentMoniker": "Restaurant.BL\\VM\\Category\\CategoryUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\VM\\Category\\CategoryUpdateVM.cs",
+              "RelativeToolTip": "Restaurant.BL\\VM\\Category\\CategoryUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:46:48.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\VM\\Category\\CategoryGetVM.cs",
+              "RelativeDocumentMoniker": "Restaurant.BL\\VM\\Category\\CategoryGetVM.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\VM\\Category\\CategoryGetVM.cs",
+              "RelativeToolTip": "Restaurant.BL\\VM\\Category\\CategoryGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:46:32.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\VM\\Category\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "Restaurant.BL\\VM\\Category\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.BL\\VM\\Category\\CategoryCreateVM.cs",
+              "RelativeToolTip": "Restaurant.BL\\VM\\Category\\CategoryCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:45:01.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restaurant.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Restaurant\\Restaurant.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restaurant.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T18:32:56.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
