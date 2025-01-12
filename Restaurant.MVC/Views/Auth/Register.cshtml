@@ -1,0 +1,84 @@
+﻿@model Restaurant.BL.VM.Auth.RegisterVM
+@{
+	Layout = null;	
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="~/login_register/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/login_register/css/style.css">
+</head>
+<body>
+
+    <div class="main">
+
+        <!-- Sign up form -->
+        <section class="signup">
+            <div class="container">
+                <div class="signup-content">
+                    <div class="signup-form">
+                        <h2 class="form-title">Sign up</h2>
+                        <form method="POST" class="register-form" id="register-form" enctype="multipart/form-data">
+                            
+                            <div class="form-group">
+                                @* <label asp-for="Fullname"></label> *@
+                                <input asp-for="Fullname" type="text" class="form-control form-control-user" id="exampleFirstName"
+                                       placeholder="FullName">
+                                <span class="text-danger" asp-validation-for="Fullname"></span>
+                            </div>
+                            <div class="form-group">
+                               @*  <label asp-for="Username"></label> *@
+                                <input asp-for="Username" type="text" class="form-control form-control-user" id="exampleFirstName"
+                                       placeholder="Username">
+                                <span class="text-danger" asp-validation-for="Username"></span>
+                            </div>
+                            <div class="form-group">
+                                @* <label asp-for="Email"></label> *@
+                                <input asp-for="Email" type="text" class="form-control form-control-user" id="exampleFirstName"
+                                       placeholder="Email">
+                                <span class="text-danger" asp-validation-for="Email"></span>
+                            </div>
+                            <div class="form-group">
+                                @* <label asp-for="Password"></label> *@
+                                <input asp-for="Password" type="password" class="form-control form-control-user" id="exampleFirstName"
+                                       placeholder="Password">
+                                <span class="text-danger" asp-validation-for="Password"></span>
+                            </div>
+                            <div class="form-group">
+                                @* <label asp-for="RePassword"></label> *@
+                                <input asp-for="RePassword" type="password" class="form-control form-control-user" id="exampleFirstName"
+                                       placeholder="RePassword">
+                                <span class="text-danger" asp-validation-for="RePassword"></span>
+                            </div>
+                            <div asp-validation-summary="ModelOnly" class="text-danger">
+                            </div>
+                            <div class="form-group form-button">
+                                <input type="submit" name="signup" id="signup" class="form-submit" value="Register" />
+                            </div>
+                        </form>
+                    </div>
+                    <div class="signup-image">
+                        <figure><img src="~/login_register/images/signup-image.jpg" alt="sing up image"></figure>
+                        <a asp-action="Login" asp-controller="Auth" class="signup-image-link">I am already member</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+       
+
+    </div>
+
+    <!-- JS -->
+    <script src="~/login_register/vendor/jquery/jquery.min.js"></script>
+    <script src="~/login_register/js/main.js"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
